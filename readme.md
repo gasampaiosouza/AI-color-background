@@ -4,13 +4,13 @@ I made an "AI background generator" using [brain.js](https://github.com/BrainJS/
 
 ## Contents
 
-- [📘 How it works](#how-it-works)
-- [📏 How to install](#how-to-install)
-  - [💡 How to use](#how-to-use)
-  - [🏃 How to run](#how-to-run)
-  - [📌 Examples](#examples)
-- [✒️ Tools](#tools)
-- [😃 Thank you](#thank-you)
+- [📘 How it works](#📘-how-it-works)
+- [📏 How to install](#📏-how-to-install)
+  - [💡 How to use](#💡-how-to-use)
+  - [🏃 How to run](#🏃-how-to-run)
+  - [📌 Examples](#📌-examples)
+- [✒️ Tools](#✒️-tools)
+- [😃 Thank you](#😃-thank-you)
 
 ## 📘 How it works
 
@@ -103,3 +103,5 @@ console.log(
 ## 😃 Thank you
 
 That's my first AI project, i hope you liked it, there's a bunch more coming! 💜
+
+[⬆️ back to top](#)
