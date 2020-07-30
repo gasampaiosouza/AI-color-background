@@ -2,15 +2,15 @@
 
 I made an "AI background generator" using [brain.js](https://github.com/BrainJS/brain.js). It's not this much precise, but it works fine.
 
-## Content
+## Contents
 
-- [📘 How it works](#how-it-works) <br />
-- [📏 How to install](#how-to-install) <br />
-  - [💡 How to use](#how-to-use) <br />
-  - [🏃 How to run](#how-to-run) <br />
-  - [📌 Examples](#examples) <br />
-- [✒️ Tools](#tools) <br />
-- [😃 Thank you](#thank-you) <br />
+- [📘 How it works](#how-it-works)
+- [📏 How to install](#how-to-install)
+  - [💡 How to use](#how-to-use)
+  - [🏃 How to run](#how-to-run)
+  - [📌 Examples](#examples)
+- [✒️ Tools](#tools)
+- [😃 Thank you](#thank-you)
 
 ## 📘 How it works
 
