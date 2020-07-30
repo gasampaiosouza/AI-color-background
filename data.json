@@ -1,0 +1,16 @@
+[
+  { "input": "ffffff", "output": "black" },
+  { "input": "000000", "output": "white" },
+  { "input": "4b5d67", "output": "white" },
+  { "input": "ffe4e4", "output": "black" },
+  { "input": "1b1c25", "output": "white" },
+  { "input": "1b262c", "output": "white" },
+  { "input": "feceab", "output": "black" },
+  { "input": "eeecda", "output": "black" },
+  { "input": "383e56", "output": "white" },
+  { "input": "fbe6d4", "output": "black" },
+  { "input": "2f2519", "output": "white" },
+  { "input": "99b898", "output": "black" },
+  { "input": "ffbd69", "output": "black" },
+  { "input": "184d47", "output": "white" }
+]
