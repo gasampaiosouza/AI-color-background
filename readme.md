@@ -4,19 +4,19 @@ I made an "AI background generator" using [brain.js](https://github.com/BrainJS/
 
 ## Contents
 
-- [📘 How it works](#📘-how-it-works)
-- [📏 How to install](#📏-how-to-install)
-  - [💡 How to use](#💡-how-to-use)
-  - [🏃 How to run](#🏃-how-to-run)
-  - [📌 Examples](#📌-examples)
-- [✒️ Tools](#✒️-tools)
-- [😃 Thank you](#😃-thank-you)
+- [How it works](#how-it-works)
+- [How to install](#how-to-install)
+  - [How to use](#how-to-use)
+  - [How to run](#how-to-run)
+  - [Examples](#examples)
+- [Tools](#tools)
+- [Thank you](#thank-you)
 
-## 📘 How it works
+## How it works
 
 If you need to know what kind of background fits on a kind of color, the machine will tell you!
 
-## 📏 How to install
+## How to install
 
 To install, you need to clone this repository and install it's dependencies:
 
@@ -26,7 +26,7 @@ To install, you need to clone this repository and install it's dependencies:
   npm install
 ```
 
-### 💡 How to use
+### How to use
 
 To use it is pretty simple. Inside `index.js` you are going to see this piece of code:
 
@@ -68,11 +68,11 @@ But, if you want to see **two or more** colors' background, just change the `con
 
 > Expected **can** be a empty string.
 
-### 🏃 How to run
+### How to run
 
 To actually run this code, you can simply type `npm run code` or `yarn code`.
 
-### 📌 Examples
+### Examples
 
 Let's make a simple example using both light and darken colors.
 
@@ -96,11 +96,11 @@ console.log(
 );
 ```
 
-## ✒️ Tools
+## Tools
 
 - Javascript - [Brain.js](https://github.com/BrainJS/brain.js)
 
-## 😃 Thank you
+## Thank you
 
 That's my first AI project, i hope you liked it, there's a bunch more coming! 💜
 
