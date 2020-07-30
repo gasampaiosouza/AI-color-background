@@ -64,9 +64,9 @@ console.log(output);
 
 > you can also delete, but it's not recommended
 
-But, if you want to see **two or more** colors' background, just change the `const output`, to the color you want.
+But, if you want to see **two or more** colors' background, just change the first `const output`, to the color you want.
 
-> Expected **can** be a empty string.
+> `Expected` property **can** be a empty string.
 
 ### How to run
 
@@ -74,7 +74,7 @@ To actually run this code, you can simply type `npm run code` or `yarn code`.
 
 ### Examples
 
-Let's make a simple example using both light and darken colors.
+Let's make a simple example using both light and dark colors.
 
 ```javascript
 // a black color, we expect the bg result to be white
